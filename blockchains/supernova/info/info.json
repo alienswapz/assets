@@ -1,0 +1,33 @@
+{
+    "name": "Supernova",
+    "website": "https://zenon.network",
+    "description": "An EVM extension chain for Zenon Network",
+    "explorer": "https://novascan.io",
+    "research": "",
+    "symbol": "xZNN",
+    "type": "coin",
+    "decimals": 18,
+    "rpc_url": "https://rpc.novascan.io",
+    "status": "active",
+    "tags": [
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/zenonnetwork/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Zenon_Network"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/zenonnetwork"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Zenon_Network/"
+        }
+    ]
+}
