@@ -1,11 +1,16 @@
 {
   "name": "Supernova",
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-08-26T00:00:00.000+00:00",
   "logoURI": "https://raw.githubusercontent.com/alienswapz/assets/master/blockchains/supernova/info/logo.png",
   "keywords": [
     "zenon",
     "supernova"
   ],
-  "timestamp": "2024-08-26T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 73405,
@@ -14,35 +19,6 @@
       "symbol": "WXZNN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/alienswapz/assets/master/blockchains/supernova/assets/0x4c5650fc159c2f33935d8bb42bf70dacb9afaa1b/logo.png"
-    },
-    {
-      "chainId": 73405,
-      "address": "0x736edABb8e608751D3C7CAFB40EF2A916E6cF47E",
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/alienswapz/assets/master/blockchains/supernova/assets/0x736edABb8e608751D3C7CAFB40EF2A916E6cF47E/logo.png"
-    },
-    {
-      "chainId": 73405,
-      "address": "0x1d311869f920036DB951cBcBC84171d42b5DE649",
-      "name": "Bitcoin2",
-      "symbol": "BTC2",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/alienswapz/assets/master/blockchains/supernova/assets/0x1d311869f920036DB951cBcBC84171d42b5DE649/logo.png"
-    },
-    {
-      "chainId": 73405,
-      "address": "0x74ef6611F359177D9aa0736cd5134e62c1533334",
-      "name": "Token",
-      "symbol": "TK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/alienswapz/assets/master/blockchains/supernova/assets/0x74ef6611F359177D9aa0736cd5134e62c1533334/logo.png"
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  ]
 }
