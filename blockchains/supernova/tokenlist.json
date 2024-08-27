@@ -2,7 +2,7 @@
   "name": "Supernova",
     "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "timestamp": "2024-08-26T00:00:00.000+00:00",
@@ -19,6 +19,14 @@
       "symbol": "WXZNN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/alienswapz/assets/master/blockchains/supernova/assets/0x4c5650fc159c2f33935d8bb42bf70dacb9afaa1b/logo.png"
+    },
+	{
+      "chainId": 73405,
+      "address": "0x05b6cd7a64cca9979975c7c7cdbbe16175dbd388",
+      "name": "Z",
+      "symbol": "Z",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/alienswapz/assets/master/blockchains/supernova/assets/0x05b6cd7a64cca9979975c7c7cdbbe16175dbd388/logo.png"
     }
   ]
 }
